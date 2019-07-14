@@ -1,0 +1,19 @@
+<span id="a">Raja-ai@github</span>:<span id="b">~</span><span id="c">$</span> who am i<br/>
+Hello there, I'm Raja Ben Amor.<br/>
+<p>I'm a studient   at the Higher Institute of Technological Studies of Zaghouan (ISET zaghouan).</p>
+<p>I'm :
+<ul>
+<li>a Programmer !</li>
+<li>i'm a member of Montrnotion cLub isetzG.</li><br><li>member of Lamma events club .</li><br>
+<li>Web  developer.</li>
+<li>A beginner in Bootstrap , WordPress</li>
+</ul>
+I love to play video games, Programming, Drink coffee, Watch series, etc ...</p>
+If you would like to get in touch with me, whether it be for tech support, to help you build an app, or to just say hi !
+Feel free to send me an email or take a look at my LinkedIn profile ! My email address is: <a href="mailto:rajabenamor00.com">rajabenamor00@gmail.com</a> and my LinkedIn is <a href="https://www.linkedin.com/in/raja-ben-amor-491653181/">raja ben amor</a>. You may also check my <a href="https://drive.google.com/file/d/1DaqP4VKg52CFCdKwJUc_5YIKmoso13HA/view?usp=sharing">CV</a> !
+
+I also invite you to take a look at my <a href="https://github.com/Raja-ai">Github projects</a> !
+
+Cheers !</p>
+
+<span id="a">Raja-ai@github</span>:<span id="b">~</span><span id="c">$</span> 
